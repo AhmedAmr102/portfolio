@@ -1,0 +1,19 @@
+# Angular workspace artifacts
+/angular-portfolio/node_modules/
+/angular-portfolio/.angular/
+/angular-portfolio/dist/
+
+# Common logs and temp files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large local archives
+/ahmed_amr_portfolio.tar.gz
+/zi5xlknG
+/ziO9GYlK
