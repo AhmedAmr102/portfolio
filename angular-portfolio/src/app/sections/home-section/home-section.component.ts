@@ -114,10 +114,9 @@ export class HomeSectionComponent implements OnInit {
 
   titles = [
     'Full Stack Developer',
-    'Backend Developer',
-    'Frontend Developer',
-    'ASP.NET Core Developer',
+    '.NET Developer',
     'Laravel Developer',
+    'Backend Developer',
   ];
 
   ngOnInit() {
